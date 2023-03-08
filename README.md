@@ -10,4 +10,6 @@ pip install openai
 2. 修改 key.txt，改為自己的 openai key
 3. 最終成果會輸出於 ouput.txt
 
+你可多執行幾次來獲得你最滿意的版本
+
 不要問我為什麼不用 word 檔存，因為很麻煩
