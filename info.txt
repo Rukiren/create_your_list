@@ -11,5 +11,3 @@
 3 月，社團第二次社課，社課內容為 WebScurity
 3 月，社團第三次社課，社課內容為 subnet Mask
 3 月，用 openai api 做出各種自動化工具
-
-最後，這份報告是透過 https://github.com/Rukiren/interview-report-generator 這個專案產生
